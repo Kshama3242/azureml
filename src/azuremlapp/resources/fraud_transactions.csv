@@ -1,101 +1,101 @@
-transaction_id,timestamp,amount,merchant,category,location,payment_method,device_type,is_fraud
-TXN0001,2026-06-01 19:49:12,385.07,BestBuy,Clothing,Texas,UPI,Mobile,0
-TXN0002,2026-06-05 13:37:12,1549.01,BestBuy,Clothing,California,Wallet,Web,0
-TXN0003,2026-06-11 00:00:12,4060.57,Target,Travel,New York,Wallet,Mobile,0
-TXN0004,2026-05-28 04:03:12,1520.84,Target,Food,New York,UPI,Mobile,0
-TXN0005,2026-06-12 07:43:12,615.31,Walmart,Electronics,Texas,Debit Card,POS,0
-TXN0006,2026-05-29 01:57:12,4421.03,Walmart,Food,Illinois,UPI,POS,0
-TXN0007,2026-05-31 07:29:12,413.37,Target,Clothing,Illinois,Debit Card,Mobile,0
-TXN0008,2026-05-29 17:05:12,4078.14,Target,Travel,Illinois,UPI,Mobile,0
-TXN0009,2026-06-02 13:53:12,749.01,Amazon,Electronics,Texas,Net Banking,Web,0
-TXN0010,2026-05-26 02:02:12,1586.59,Walmart,Food,New York,Wallet,POS,0
-TXN0011,2026-06-01 07:14:12,957.11,Target,Grocery,New York,Credit Card,Mobile,0
-TXN0012,2026-06-15 19:54:12,2987.06,BestBuy,Food,Texas,Net Banking,Mobile,0
-TXN0013,2026-05-24 09:20:12,147.64,Walmart,Electronics,California,Wallet,POS,0
-TXN0014,2026-05-25 07:40:12,682.45,Ebay,Electronics,California,Wallet,Web,1
-TXN0015,2026-05-27 18:23:12,2826.82,Amazon,Food,New York,UPI,Web,0
-TXN0016,2026-05-31 00:21:12,234.12,Flipkart,Food,Texas,Debit Card,POS,0
-TXN0017,2026-06-13 00:16:12,3279.09,Amazon,Electronics,Florida,Wallet,Mobile,0
-TXN0018,2026-06-01 02:11:12,4537.06,BestBuy,Clothing,New York,Net Banking,POS,1
-TXN0019,2026-06-12 07:37:12,4504.15,Target,Food,New York,Wallet,POS,0
-TXN0020,2026-06-08 02:56:12,2315.51,BestBuy,Clothing,California,Wallet,Web,0
-TXN0021,2026-06-11 03:42:12,1077.23,Walmart,Electronics,Florida,Debit Card,Mobile,0
-TXN0022,2026-05-28 14:29:12,4569.98,Flipkart,Food,Texas,Net Banking,Web,0
-TXN0023,2026-06-10 23:28:12,1102.68,BestBuy,Electronics,New York,Debit Card,Mobile,0
-TXN0024,2026-06-15 12:03:12,4885.57,Flipkart,Travel,Florida,UPI,Web,0
-TXN0025,2026-06-11 10:54:12,4910.8,BestBuy,Grocery,New York,Net Banking,Web,0
-TXN0026,2026-06-18 13:36:12,2840.62,Amazon,Food,California,Debit Card,Web,1
-TXN0027,2026-06-07 00:15:12,2801.03,Flipkart,Clothing,Texas,Debit Card,Mobile,0
-TXN0028,2026-06-03 16:53:12,610.91,BestBuy,Grocery,Texas,Net Banking,Mobile,0
-TXN0029,2026-06-09 00:18:12,3141.16,Target,Clothing,Illinois,Wallet,Web,0
-TXN0030,2026-05-27 08:16:12,4179.16,Flipkart,Grocery,Florida,UPI,Mobile,0
-TXN0031,2026-06-13 20:30:12,4962.81,Walmart,Food,New York,Wallet,Web,1
-TXN0032,2026-06-15 08:06:12,3689.39,Ebay,Food,California,Debit Card,POS,0
-TXN0033,2026-06-18 05:01:12,365.99,Flipkart,Electronics,New York,Debit Card,POS,0
-TXN0034,2026-05-26 14:57:12,2596.16,Flipkart,Electronics,New York,Credit Card,Web,1
-TXN0035,2026-05-24 08:48:12,491.47,Amazon,Electronics,Illinois,Net Banking,Web,0
-TXN0036,2026-06-11 04:32:12,2053.45,Ebay,Food,Florida,Wallet,POS,0
-TXN0037,2026-05-29 18:26:12,4546.47,Target,Travel,Florida,Net Banking,Mobile,0
-TXN0038,2026-06-19 01:54:12,3503.95,Amazon,Electronics,Illinois,Credit Card,POS,0
-TXN0039,2026-06-10 14:40:12,2603.14,Walmart,Grocery,Illinois,Net Banking,Web,0
-TXN0040,2026-06-12 08:19:12,4916.05,BestBuy,Food,New York,Debit Card,Web,0
-TXN0041,2026-05-24 10:06:12,2202.54,Walmart,Clothing,Illinois,Credit Card,Web,0
-TXN0042,2026-06-16 10:13:12,504.57,Target,Clothing,California,UPI,Mobile,0
-TXN0043,2026-06-04 12:35:12,1997.42,Flipkart,Travel,New York,Debit Card,Web,0
-TXN0044,2026-06-14 13:34:12,1795.53,Target,Clothing,California,Debit Card,POS,0
-TXN0045,2026-06-08 11:39:12,587.29,BestBuy,Food,New York,Wallet,POS,0
-TXN0046,2026-06-05 02:46:12,2529.97,Flipkart,Electronics,Florida,UPI,POS,0
-TXN0047,2026-06-11 21:34:12,707.95,BestBuy,Food,California,Debit Card,Web,0
-TXN0048,2026-06-12 23:17:12,43.89,BestBuy,Grocery,Florida,Net Banking,POS,0
-TXN0049,2026-06-05 22:49:12,369.89,Target,Clothing,Florida,Credit Card,Web,0
-TXN0050,2026-05-25 16:44:12,1219.64,Amazon,Food,Illinois,UPI,Web,0
-TXN0051,2026-06-12 00:30:12,2854.99,Flipkart,Food,Illinois,Credit Card,Web,0
-TXN0052,2026-06-03 00:51:12,4916.52,Amazon,Clothing,Florida,UPI,Mobile,0
-TXN0053,2026-06-19 02:35:12,3279.14,Target,Grocery,New York,Debit Card,POS,0
-TXN0054,2026-06-04 12:03:12,711.25,Ebay,Clothing,New York,Debit Card,Mobile,0
-TXN0055,2026-05-27 06:17:12,3879.5,Target,Clothing,New York,Net Banking,Mobile,0
-TXN0056,2026-05-31 06:41:12,1782.47,Flipkart,Clothing,New York,UPI,Web,0
-TXN0057,2026-06-14 15:01:12,4687.81,BestBuy,Travel,Florida,Debit Card,POS,0
-TXN0058,2026-05-25 13:49:12,4666.97,Walmart,Clothing,Texas,UPI,Mobile,0
-TXN0059,2026-05-26 11:46:12,3873.59,Walmart,Clothing,Texas,Credit Card,Web,0
-TXN0060,2026-06-13 19:55:12,4957.26,Amazon,Grocery,Florida,Net Banking,Mobile,0
-TXN0061,2026-05-30 16:11:12,2297.17,Amazon,Food,Texas,Debit Card,Mobile,0
-TXN0062,2026-06-02 14:49:12,734.88,BestBuy,Food,Illinois,Credit Card,Mobile,0
-TXN0063,2026-06-15 01:21:12,3463.65,Amazon,Food,Illinois,Wallet,Web,0
-TXN0064,2026-06-04 08:03:12,1802.52,Ebay,Travel,Texas,Debit Card,Web,0
-TXN0065,2026-06-10 12:13:12,4300.55,Ebay,Food,Illinois,Debit Card,Mobile,0
-TXN0066,2026-06-14 09:59:12,2178.46,Amazon,Grocery,Florida,Debit Card,Web,0
-TXN0067,2026-06-18 17:21:12,909.17,Amazon,Clothing,California,UPI,Mobile,0
-TXN0068,2026-06-10 15:46:12,914.19,Target,Clothing,Florida,Credit Card,POS,0
-TXN0069,2026-06-12 01:07:12,1662.8,Target,Clothing,Texas,UPI,Web,0
-TXN0070,2026-06-11 22:38:12,2831.01,BestBuy,Food,New York,UPI,POS,0
-TXN0071,2026-06-18 14:21:12,1023.58,BestBuy,Clothing,Texas,Credit Card,Web,0
-TXN0072,2026-06-01 11:37:12,4660.29,Target,Travel,California,Net Banking,Web,0
-TXN0073,2026-06-10 06:25:12,612.08,Ebay,Food,Florida,Debit Card,Web,1
-TXN0074,2026-05-26 20:39:12,2537.54,Walmart,Food,Florida,Credit Card,POS,0
-TXN0075,2026-06-16 17:42:12,4246.88,Flipkart,Food,Florida,UPI,Web,0
-TXN0076,2026-05-24 21:31:12,2293.28,Target,Clothing,New York,UPI,Web,1
-TXN0077,2026-06-19 09:24:12,474.61,BestBuy,Food,California,Net Banking,POS,0
-TXN0078,2026-06-03 19:12:12,4156.0,Ebay,Electronics,New York,Wallet,POS,0
-TXN0079,2026-05-30 11:43:12,1352.07,Ebay,Grocery,Texas,Debit Card,POS,0
-TXN0080,2026-06-02 23:18:12,4139.25,Walmart,Electronics,Florida,Debit Card,Mobile,0
-TXN0081,2026-05-27 09:06:12,4377.31,Walmart,Grocery,New York,Debit Card,Mobile,1
-TXN0082,2026-05-25 05:07:12,3436.26,BestBuy,Electronics,California,Credit Card,POS,0
-TXN0083,2026-05-29 17:05:12,1869.4,Walmart,Travel,Illinois,Net Banking,Web,0
-TXN0084,2026-06-03 21:46:12,4036.63,Target,Grocery,Florida,UPI,Web,0
-TXN0085,2026-06-07 07:42:12,4840.33,Ebay,Electronics,Texas,Debit Card,Web,0
-TXN0086,2026-06-04 23:10:12,1972.58,Flipkart,Grocery,California,Net Banking,POS,0
-TXN0087,2026-06-07 23:22:12,2197.54,BestBuy,Travel,Illinois,Net Banking,POS,0
-TXN0088,2026-06-18 05:12:12,214.07,Walmart,Travel,Florida,UPI,Web,0
-TXN0089,2026-05-28 22:15:12,398.16,Flipkart,Grocery,Illinois,Wallet,POS,1
-TXN0090,2026-05-31 17:43:12,4030.85,Flipkart,Travel,Illinois,Debit Card,Web,0
-TXN0091,2026-06-14 19:37:12,3475.3,BestBuy,Grocery,California,Net Banking,POS,0
-TXN0092,2026-06-13 01:42:12,4491.79,BestBuy,Electronics,Florida,Debit Card,Mobile,0
-TXN0093,2026-06-08 21:32:12,1742.6,BestBuy,Food,New York,Credit Card,Mobile,0
-TXN0094,2026-06-12 01:55:12,3807.61,BestBuy,Grocery,New York,Net Banking,Web,0
-TXN0095,2026-05-31 20:42:12,4075.44,Ebay,Travel,Illinois,Debit Card,Mobile,0
-TXN0096,2026-06-03 17:00:12,1345.71,Flipkart,Electronics,Illinois,Credit Card,POS,0
-TXN0097,2026-05-30 20:48:12,1171.16,Target,Food,California,Debit Card,POS,0
-TXN0098,2026-06-04 21:14:12,1475.05,Amazon,Electronics,Illinois,Credit Card,Mobile,0
-TXN0099,2026-06-02 07:37:12,505.74,Ebay,Travel,California,UPI,Web,0
-TXN0100,2026-05-27 13:15:12,1130.82,Flipkart,Electronics,Illinois,UPI,POS,0
+transaction_id,amount,hour,merchant_category,location,label
+TXN0001,167721,3,Retail,Bengaluru,1
+TXN0002,64296,7,Retail,Delhi,0
+TXN0003,22890,18,Retail,Chennai,0
+TXN0004,57414,7,Retail,Delhi,0
+TXN0005,52224,22,Healthcare,Mumbai,0
+TXN0006,57887,14,Retail,Kochi,0
+TXN0007,183113,13,Food,Kochi,0
+TXN0008,88336,3,Retail,Bengaluru,1
+TXN0009,90265,19,Retail,Mumbai,0
+TXN0010,140668,3,Electronics,Chennai,1
+TXN0011,144814,9,Healthcare,Bengaluru,0
+TXN0012,151449,6,Retail,Kochi,0
+TXN0013,75961,2,Retail,Mumbai,0
+TXN0014,72969,14,Travel,Kochi,0
+TXN0015,97140,11,Travel,Chennai,0
+TXN0016,159780,20,Food,Kochi,0
+TXN0017,121278,12,Healthcare,Kochi,0
+TXN0018,179567,10,Retail,Kochi,0
+TXN0019,8514,10,Retail,Kochi,0
+TXN0020,148782,22,Electronics,Mumbai,0
+TXN0021,168619,14,Food,Kochi,0
+TXN0022,195394,17,Healthcare,Mumbai,0
+TXN0023,153069,12,Food,Delhi,0
+TXN0024,129472,2,Retail,Chennai,1
+TXN0025,40166,20,Electronics,Delhi,0
+TXN0026,16753,12,Electronics,Delhi,0
+TXN0027,66006,17,Retail,Chennai,0
+TXN0028,178806,17,Travel,Chennai,0
+TXN0029,77039,13,Retail,Bengaluru,0
+TXN0030,131325,5,Retail,Bengaluru,0
+TXN0031,167596,16,Food,Bengaluru,0
+TXN0032,199987,5,Healthcare,Chennai,0
+TXN0033,157109,10,Retail,Bengaluru,0
+TXN0034,80712,7,Healthcare,Chennai,1
+TXN0035,22553,23,Retail,Delhi,0
+TXN0036,33067,4,Healthcare,Kochi,0
+TXN0037,69583,16,Electronics,Kochi,0
+TXN0038,141473,23,Food,Bengaluru,1
+TXN0039,104693,21,Electronics,Delhi,0
+TXN0040,118454,3,Food,Kochi,1
+TXN0041,16884,10,Healthcare,Kochi,1
+TXN0042,154356,7,Retail,Kochi,1
+TXN0043,17768,1,Retail,Delhi,0
+TXN0044,62491,8,Food,Delhi,0
+TXN0045,34784,23,Healthcare,Delhi,0
+TXN0046,124007,7,Electronics,Kochi,0
+TXN0047,24826,3,Travel,Mumbai,0
+TXN0048,107867,14,Retail,Chennai,0
+TXN0049,15989,12,Retail,Kochi,0
+TXN0050,50324,6,Food,Mumbai,0
+TXN0051,48200,8,Retail,Mumbai,0
+TXN0052,144364,3,Retail,Delhi,1
+TXN0053,3968,2,Food,Kochi,0
+TXN0054,106639,15,Electronics,Chennai,0
+TXN0055,43258,12,Electronics,Bengaluru,1
+TXN0056,119377,9,Healthcare,Mumbai,0
+TXN0057,40679,6,Retail,Delhi,0
+TXN0058,192969,17,Travel,Chennai,1
+TXN0059,13244,18,Healthcare,Kochi,0
+TXN0060,15010,16,Food,Chennai,1
+TXN0061,156084,2,Food,Mumbai,1
+TXN0062,31527,18,Healthcare,Chennai,0
+TXN0063,162467,2,Electronics,Delhi,1
+TXN0064,148270,16,Travel,Kochi,0
+TXN0065,175664,22,Travel,Mumbai,0
+TXN0066,34408,21,Electronics,Bengaluru,0
+TXN0067,197196,2,Retail,Mumbai,1
+TXN0068,162933,18,Retail,Delhi,0
+TXN0069,55977,16,Travel,Chennai,0
+TXN0070,64137,11,Electronics,Delhi,0
+TXN0071,184528,9,Healthcare,Chennai,0
+TXN0072,175176,17,Retail,Kochi,0
+TXN0073,69428,3,Healthcare,Kochi,0
+TXN0074,71494,9,Travel,Kochi,0
+TXN0075,180323,20,Healthcare,Mumbai,0
+TXN0076,65929,1,Electronics,Bengaluru,1
+TXN0077,11657,0,Food,Bengaluru,0
+TXN0078,42457,23,Electronics,Delhi,0
+TXN0079,2634,3,Food,Delhi,1
+TXN0080,9544,11,Food,Mumbai,0
+TXN0081,33509,1,Retail,Bengaluru,0
+TXN0082,55170,21,Retail,Bengaluru,0
+TXN0083,146870,13,Food,Kochi,0
+TXN0084,42698,5,Retail,Kochi,0
+TXN0085,193185,10,Electronics,Kochi,0
+TXN0086,70041,5,Retail,Mumbai,0
+TXN0087,10251,15,Electronics,Bengaluru,0
+TXN0088,80103,7,Food,Mumbai,0
+TXN0089,86151,8,Travel,Bengaluru,0
+TXN0090,168260,16,Healthcare,Bengaluru,0
+TXN0091,7335,3,Travel,Kochi,0
+TXN0092,152298,8,Healthcare,Mumbai,1
+TXN0093,90719,23,Electronics,Delhi,0
+TXN0094,134166,3,Electronics,Delhi,1
+TXN0095,49928,8,Electronics,Chennai,1
+TXN0096,136393,17,Food,Bengaluru,0
+TXN0097,113162,2,Travel,Delhi,1
+TXN0098,82391,21,Travel,Delhi,0
+TXN0099,81177,21,Electronics,Bengaluru,0
+TXN0100,145435,4,Food,Mumbai,1
