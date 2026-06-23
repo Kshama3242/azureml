@@ -1,0 +1,8 @@
+pyproject.toml
+src/azuremlapp/__init__.py
+src/azuremlapp/utils/fraud_train.py
+src/machinelearning.egg-info/PKG-INFO
+src/machinelearning.egg-info/SOURCES.txt
+src/machinelearning.egg-info/dependency_links.txt
+src/machinelearning.egg-info/requires.txt
+src/machinelearning.egg-info/top_level.txt
