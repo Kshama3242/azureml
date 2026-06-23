@@ -1,6 +1,7 @@
 #fraud detection model training
 import os
 from dotenv import load_dotenv
+import joblib
 import pandas as pd
 from sklearn.metrics import confusion_matrix, f1_score, precision_score, recall_score
 from sklearn.model_selection import train_test_split
@@ -24,7 +25,7 @@ def fraud_detection_train(file_path):
 
     #split the data into training and testing sets
     
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
     # Further steps for model training would go here (e.g., train-test split, model fitting, etc.)
     
@@ -51,6 +52,29 @@ def fraud_detection_train(file_path):
     
     cm = confusion_matrix(y_test, y_pred)
     print(f"Confusion Matrix:\n{cm}")
+    os.makedirs("outputs", exist_ok=True)
+
+    model_path = os.getenv('model_path')
+
+    artifact = {
+            "model": clf,
+            "feature_columns": X.columns.tolist(),
+            "metrics": {
+                "accuracy": accuracy,
+                "f1_score": f1,
+                "precision": precision,
+                "recall": recall
+            }
+        }
+
+
+
+    joblib.dump(artifact, model_path)
+
+    print(f"\nModel saved to: {model_path}")
+
+    return model_path
+
 
 
 if __name__ == "__main__":
